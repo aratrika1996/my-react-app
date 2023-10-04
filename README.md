@@ -74,5 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # GitHub URL
-[https://github.com/aratrika1996/my-react-app]
+https://github.com/aratrika1996/my-react-app
 
